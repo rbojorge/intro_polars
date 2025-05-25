@@ -1,0 +1,107 @@
+brand,model,style,accel,top_speed,range,charge_rate,price
+SEAT,Mii Electric,Hatchback,12.3,130.0,195.0,170.0,20129
+Smart,EQ fortwo coupe,Hatchback,11.6,130.0,100.0,,21387
+Volkswagen,e-Up!,hatchback,11.9,130.0,195.0,170.0,21421
+Smart,EQ forfour,hatchback,12.7,130.0,95.0,,22030
+Skoda,CITIGOe iV,Hatchback,12.3,130.0,195.0,170.0,24534
+Smart,EQ fortwo cabrio,Cabrio,11.9,130.0,95.0,,24565
+Renault,Twingo ZE,Hatchback,12.6,135.0,130.0,,24790
+Sono,Sion,Hatchback,9.0,140.0,225.0,270.0,25500
+Opel,Corsa-e,hatchback,8.1,150.0,275.0,420.0,29146
+Opel,Corsa-e,hatchback,8.1,150.0,275.0,420.0,29146
+Nissan,Leaf,Hatchback,7.9,144.0,220.0,230.0,29234
+Renault,Zoe ZE40 R110,hatchback,11.4,135.0,255.0,230.0,29234
+Peugeot,e-208,Hatchback,8.1,150.0,275.0,420.0,29682
+Volkswagen,ID.3 Pure,hatchback,10.0,160.0,270.0,250.0,30000
+MG,ZS EV,SUV,8.2,140.0,220.0,260.0,30000
+Renault,Zoe ZE50 R110,Hatchback,11.4,135.0,315.0,230.0,31184
+Mini,Cooper SE,Hatchback,7.3,150.0,185.0,260.0,31681
+Volkswagen,e-Golf,hatchback,9.6,150.0,190.0,220.0,31900
+Mazda,MX-30,suv,9.0,150.0,180.0,240.0,32646
+Honda,e,hatchback,,145.0,170.0,190.0,32997
+Volkswagen,ID.3 Pro,Hatchback,9.0,160.0,350.0,490.0,33000
+Renault,Zoe ZE50 R135,Hatchback,9.5,140.0,310.0,230.0,33133
+Kia,e-Soul 39 kWh,suv,9.9,157.0,230.0,220.0,33133
+Nissan,e-NV200 Evalia,spv,14.0,123.0,190.0,190.0,33246
+Hyundai,Kona Electric 39 kWh,SUV,9.9,155.0,255.0,210.0,33971
+Peugeot,e-2008 SUV,suv,8.5,150.0,250.0,380.0,34361
+Kia,e-Niro 39 kWh,suv,9.8,155.0,235.0,230.0,34400
+Hyundai,IONIQ Electric,Liftback,9.7,165.0,250.0,210.0,34459
+Fiat,500e Hatchback,Hatchback,9.0,150.0,250.0,330.0,34900
+Skoda,Enyaq iV 50,SUV,10.0,160.0,290.0,230.0,35000
+Opel,Mokka-e,suv,8.5,150.0,255.0,390.0,35000
+Volkswagen,ID.3 Pro Performance,Hatchback,7.3,160.0,340.0,470.0,35575
+Honda,e Advance,hatchback,8.3,145.0,170.0,190.0,35921
+Aiways,U5,suv,9.0,150.0,335.0,350.0,36057
+Kia,e-Soul 64 kWh,SUV,7.9,167.0,365.0,340.0,36837
+Kia,e-Soul 64 kWh,SUV,7.9,167.0,365.0,320.0,36837
+Nissan,Leaf e+,hatchback,7.3,157.0,325.0,390.0,37237
+DS,3 Crossback E-Tense,SUV,8.7,150.0,250.0,380.0,37422
+Skoda,Enyaq iV 60,SUV,9.0,160.0,320.0,440.0,37500
+Fiat,500e Convertible,Cabrio,9.0,150.0,250.0,330.0,37900
+Renault,Kangoo Maxi ZE 33,SPV,22.4,130.0,160.0,,38000
+BMW,i3 120 Ah,hatchback,7.3,150.0,235.0,270.0,38017
+Kia,e-Niro 64 kWh,suv,7.8,167.0,370.0,350.0,38105
+Volkswagen,ID.3 1st,hatchback,7.3,160.0,340.0,470.0,38987
+Skoda,Enyaq iV 80,SUV,8.8,160.0,420.0,560.0,40000
+Citroen,e-C4,suv,9.7,150.0,250.0,380.0,40000
+Hyundai,Kona Electric 64 kWh,SUV,7.9,167.0,400.0,380.0,40795
+Volkswagen,ID.3 Pro S,hatchback,7.9,160.0,440.0,590.0,40936
+BMW,i3s 120 Ah,hatchback,6.9,160.0,230.0,260.0,41526
+Opel,Ampera-e,MPV,7.3,150.0,335.0,210.0,41906
+Volkswagen,ID.4,SUV,7.5,160.0,420.0,560.0,45000
+CUPRA,el-Born,hatchback,6.5,160.0,425.0,570.0,45000
+Mercedes,EQA,suv,5.0,200.0,350.0,440.0,45000
+Skoda,Enyaq iV 80X,SUV,7.0,160.0,400.0,540.0,45000
+Tesla,Cybertruck Single Motor,Pickup,7.0,180.0,390.0,740.0,45000
+Nissan,Ariya 63kWh,Hatchback,7.5,160.0,330.0,440.0,45000
+Tesla,Model 3 Standard Range Plus,Sedan,5.6,225.0,310.0,650.0,46380
+Ford,Mustang Mach-E SR RWD,SUV,6.6,180.0,360.0,380.0,46900
+Skoda,Enyaq iV vRS,suv,6.2,180.0,400.0,540.0,47500
+Lexus,UX 300e,SUV,7.5,160.0,270.0,190.0,50000
+Nissan,Ariya 87kWh,hatchback,7.6,160.0,440.0,520.0,50000
+Nissan,Ariya e-4ORCE 63kWh,Hatchback,5.9,200.0,325.0,440.0,50000
+Byton,M-Byte 72 kWh 2WD,SUV,7.5,190.0,325.0,420.0,53500
+Ford,Mustang Mach-E SR AWD,suv,6.0,180.0,340.0,360.0,54000
+Ford,Mustang Mach-E ER RWD,suv,7.0,180.0,450.0,430.0,54475
+Audi,Q4 e-tron,SUV,6.3,180.0,400.0,540.0,55000
+Tesla,Cybertruck Dual Motor,pickup,5.0,190.0,460.0,710.0,55000
+Tesla,Model 3 Long Range Dual Motor,Sedan,4.6,233.0,450.0,940.0,55480
+Polestar,2,Liftback,4.7,210.0,400.0,620.0,56440
+Audi,Q4 Sportback e-tron,SUV,6.3,180.0,410.0,550.0,57500
+Nissan,Ariya e-4ORCE 87kWh,Hatchback,5.7,200.0,420.0,500.0,57500
+Tesla,Model Y Long Range Dual Motor,SUV,5.1,217.0,425.0,930.0,58620
+Volvo,XC40 P8 AWD Recharge,SUV,4.9,180.0,375.0,470.0,60437
+Tesla,Model 3 Long Range Performance,Sedan,3.4,261.0,435.0,910.0,61480
+Byton,M-Byte 95 kWh 2WD,SUV,7.5,190.0,400.0,480.0,62000
+Ford,Mustang Mach-E ER AWD,SUV,6.0,180.0,430.0,410.0,62900
+Byton,M-Byte 95 kWh 4WD,SUV,5.5,190.0,390.0,460.0,64000
+BMW,i4,Sedan,4.0,200.0,450.0,650.0,65000
+Nissan,Ariya e-4ORCE 87kWh Performance,hatchback,5.1,200.0,375.0,450.0,65000
+Tesla,Model Y Long Range Performance,SUV,3.7,241.0,410.0,900.0,65620
+Audi,e-tron 50 quattro,suv,6.8,190.0,280.0,450.0,67358
+Audi,e-tron 50 quattro,suv,6.8,190.0,280.0,450.0,67358
+BMW,iX3,suv,6.8,180.0,360.0,560.0,68040
+Mercedes,EQC 400 4MATIC,suv,5.1,180.0,370.0,440.0,69484
+Mercedes,EQC 400 4MATIC,suv,5.1,180.0,370.0,440.0,69484
+Audi,e-tron Sportback 50 quattro,suv,6.8,190.0,295.0,470.0,69551
+Mercedes,EQV 300 Long,spv,10.0,140.0,330.0,290.0,70631
+Tesla,Cybertruck Tri Motor,pickup,3.0,210.0,750.0,710.0,75000
+Jaguar,I-Pace,SUV,4.8,200.0,365.0,340.0,75351
+Audi,e-tron 55 quattro,SUV,5.7,200.0,365.0,590.0,79445
+Tesla,Model S Long Range,Liftback,3.8,250.0,515.0,560.0,79990
+Audi,e-tron Sportback 55 quattro,suv,5.7,200.0,380.0,610.0,81639
+Tesla,Model X Long Range,SUV,4.6,250.0,450.0,490.0,85990
+Audi,e-tron S 55 quattro,SUV,4.5,210.0,320.0,510.0,93800
+Audi,e-tron S Sportback 55 quattro,suv,4.5,210.0,335.0,540.0,96050
+Tesla,Model S Performance,Liftback,2.5,261.0,505.0,550.0,96990
+Porsche,Taycan 4S,Sedan,4.0,250.0,365.0,730.0,102945
+Tesla,Model X Performance,suv,2.8,250.0,440.0,480.0,102990
+Lucid,Air,sedan,2.8,250.0,610.0,620.0,105000
+Porsche,Taycan 4S Plus,Sedan,4.0,250.0,425.0,890.0,109302
+Audi,e-tron GT,sedan,3.5,240.0,425.0,850.0,125000
+Porsche,Taycan Turbo,Sedan,3.2,260.0,390.0,810.0,148301
+Lightyear,One,Liftback,10.0,150.0,575.0,540.0,149000
+Porsche,Taycan Cross Turismo,station,3.5,250.0,385.0,770.0,150000
+Porsche,Taycan Turbo S,sedan,2.8,260.0,375.0,780.0,180781
+Tesla,Roadster,Cabrio,2.1,410.0,970.0,920.0,215000
